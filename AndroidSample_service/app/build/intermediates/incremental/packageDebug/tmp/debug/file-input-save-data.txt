@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Jan 15 15:05:41 CST 2021
+1.base=E\:\\worksapces\\Azure\\azure-iot-samples-java-master\\iot-hub\\Samples\\service\\AndroidSample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=E\:\\worksapces\\Azure\\azure-iot-samples-java-master\\iot-hub\\Samples\\service\\AndroidSample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+1.path=classes.dex

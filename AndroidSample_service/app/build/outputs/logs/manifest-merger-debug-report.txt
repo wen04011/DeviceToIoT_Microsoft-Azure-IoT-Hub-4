@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d4c39137dcca10cde5fde11a96a4f561\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\bb5123015fcce340cf31b73acc08807d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c71d3aca1d318c1af9ed4eb5387b5eb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d8d3812d5ef2ea351a4b206632a2a2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f0b89f02588c98adca62bc21ce355b5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\89a85f8f26cd0a41bdf964bfd3fd8b00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a54768521b2e7ba20696956d1e1052f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5728078792ebc32a4d721b529d9e9d52\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b0eb4fd731f2a6060f6deba55ae7f36e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f05c0c21ebf2eafdb8cfc973cfdc909c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b176dd1e620783f5fcef4c9d69fa06f0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\73f6d6db02a5d6f7504ef0ca60690556\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:3:5-64
+		INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:7:5-20:19
+	android:supportsRtl
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.microsoft.azure.sdk.iot.samples.androidsample.MainActivity
+ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d4c39137dcca10cde5fde11a96a4f561\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d4c39137dcca10cde5fde11a96a4f561\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\bb5123015fcce340cf31b73acc08807d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\bb5123015fcce340cf31b73acc08807d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c71d3aca1d318c1af9ed4eb5387b5eb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c71d3aca1d318c1af9ed4eb5387b5eb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d8d3812d5ef2ea351a4b206632a2a2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2d8d3812d5ef2ea351a4b206632a2a2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f0b89f02588c98adca62bc21ce355b5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f0b89f02588c98adca62bc21ce355b5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\89a85f8f26cd0a41bdf964bfd3fd8b00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\89a85f8f26cd0a41bdf964bfd3fd8b00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a54768521b2e7ba20696956d1e1052f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a54768521b2e7ba20696956d1e1052f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5728078792ebc32a4d721b529d9e9d52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5728078792ebc32a4d721b529d9e9d52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b0eb4fd731f2a6060f6deba55ae7f36e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b0eb4fd731f2a6060f6deba55ae7f36e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f05c0c21ebf2eafdb8cfc973cfdc909c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f05c0c21ebf2eafdb8cfc973cfdc909c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b176dd1e620783f5fcef4c9d69fa06f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b176dd1e620783f5fcef4c9d69fa06f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\73f6d6db02a5d6f7504ef0ca60690556\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\david1_cheng\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\73f6d6db02a5d6f7504ef0ca60690556\AndroidManifest.xml:20:5-44
+INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+		ADDED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
+		INJECTED from E:\worksapces\Azure\azure-iot-samples-java-master\iot-hub\Samples\service\AndroidSample\app\src\main\AndroidManifest.xml
